@@ -8,7 +8,7 @@
 * ...
 
 ### Screen - shot
-![Buil process with Ant] (https://github.com/thong-ba/math-util-ant-thongln/blob/main/screenshot/build-with-ant.png)
+![Buil process with Ant](https://github.com/thong-ba/math-util-ant-thongln/blob/main/screenshot/build-with-ant.png)
 
 
 ![DDT source code with JUnit](https://github.com/thong-ba/math-util-ant-thongln/blob/main/screenshot/ddt-source-with-junit.png) 
