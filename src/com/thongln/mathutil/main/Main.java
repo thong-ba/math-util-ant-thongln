@@ -16,6 +16,9 @@ public class Main {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println("This message come from the main() method");
+        System.out.println("This jar file is built base on Ant");
+        System.out.println("Move over, this message come from US - BUILD JAR FILE");
         tryTDDFirst();
     }
     
